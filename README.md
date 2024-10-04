@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raghav-reddy.web.app/](https://raghav-reddy.web.app/)
 
-- 📝 My letest Project [https://codehere-v1.web.app/](https://codehere-v1.web.app/)
+- 📝 My latest Project [https://codehere-v1.web.app/](https://codehere-v1.web.app/)
 
 - 💬 Ask me about **ReactJS, NodeJS, GraphQL**
 
